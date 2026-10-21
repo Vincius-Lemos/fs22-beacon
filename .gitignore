@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+zabbix_url.txt
+zabbix_token.txt
