@@ -1,6 +1,6 @@
 [English](README.md) | **Português (BR)**
 
-# Beacon Luz
+# FS22 Beacon
 
 Controle a luz USB rotativa do Farming Simulator 22 pelo Windows, e faça ela piscar e girar quando o Zabbix reportar um problema de severidade **Disaster**.
 
