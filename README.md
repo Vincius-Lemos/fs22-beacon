@@ -1,3 +1,5 @@
+**English** | [Português (BR)](README.pt-BR.md)
+
 # Beacon Luz
 
 Control the Farming Simulator 22 USB beacon light from Windows, and flash/spin it when Zabbix reports a **Disaster** problem.
